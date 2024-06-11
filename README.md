@@ -1,4 +1,4 @@
-# Google_Trends_Analysis
+# Google Trends Analysis
 Welcome to the Google Trends Analysis project! This repository provides a comprehensive guide on how to analyze Google Trends data using Power BI, leveraging the capabilities of the SerpApi.
 
 # Google Trends Analysis with Power BI
